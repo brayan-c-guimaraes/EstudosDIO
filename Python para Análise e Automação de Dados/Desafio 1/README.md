@@ -8,7 +8,8 @@ O projeto visa a síntese de múltiplos sistemas de personalidade — Eneagrama,
 Diferenciar o "como" processamos informação (MBTI) do "porquê" agimos (Eneagrama).
 ### Validar Traços Científicos:
 Utilizar o modelo Big Five para fundamentar tendências comportamentais em dados estatisticamente validados.
-### Analisar a Tomada de Decisão:### Investigar como a hierarquia de atitudes na Attitudinal Psyche influencia a confiança pessoal e a interação social.
+### Analisar a Tomada de Decisão:
+Investigar como a hierarquia de atitudes na Attitudinal Psyche influencia a confiança pessoal e a interação social.
 
 ## Curadoria de Fontes
 As fontes selecionadas para este estudo representam o estado da arte em cada sistema:
